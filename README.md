@@ -1,4 +1,4 @@
-# Insightful-Superstore-Sales-Storyteller-Dashboard
+# Insightful Superstore: Sales Storyteller Dashboard
 
 ## Table of contents
 
